@@ -1,4 +1,0 @@
-﻿  MainProj.cpp
-d:\testgit\3-1_nn-recog\mainproj.cpp(178): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\testgit\3-1_nn-recog\mainproj.cpp(78): warning C4715: 'unitstep': not all control paths return a value
-  3-1_NN-Recog.vcxproj -> D:\Testgit\x64\Debug\3-1_NN-Recog.exe
